@@ -6,5 +6,6 @@ In this project we analyze the music playlist database. We can examine the datas
 ![image](https://github.com/prajapatsur/SQL_Music_Store_Analysis/assets/100709956/62802fa5-aa30-43da-b408-0e4b0d64a17c)
 
 credits:
-https://www.youtube.com/@RishabhMishraOfficial
+https://www.youtube.com/@RishabhMishraOfficial,
+
 https://www.youtube.com/watch?v=VFIuIjswMKM&t=1740s
